@@ -1,61 +1,51 @@
-# ניב ברקוביץ — Generative Engine Optimization Map
-
-> A עיצוב פנים business.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### בית
-https://-d42ad501.zappy5.app
+https://example.com
 ניב ברקוביץ - מעצב פנים עצמאי בישראל מתמחה בעיצוב דירות יוקרה מינימליסטי ועיצוב פנים למשרדים מודרניים. פתרונות עיצוב בר-קיימא ומותאמים אישית.
 
 ### שירותים
-https://-d42ad501.zappy5.app/services
+https://example.com/services
 שירותי עיצוב פנים מקצועיים של ניב ברקוביץ: עיצוב דירות יוקרה מינימליסטי, עיצוב פנים למשרדים מודרניים, תכנון חללים מסחריים ופתרונות בר-קיימא.
 
 ### תיק עבודות
-https://-d42ad501.zappy5.app/portfolio
+https://example.com/portfolio
 תיק עבודות של ניב ברקוביץ מעצב פנים עצמאי בישראל - פרויקטים של עיצוב דירות יוקרה מינימליסטי, עיצוב פנים למשרדים מודרניים וחללים מסחריים.
 
 ### אודות
-https://-d42ad501.zappy5.app/about
+https://example.com/about
 הכירו את ניב ברקוביץ - מעצב פנים עצמאי בישראל המתמחה בעיצוב דירות יוקרה מינימליסטי ועיצוב משרדים מודרניים. הסיפור, החזון והגישה לעיצוב בר-קיימא.
 
 ### צור קשר
-https://-d42ad501.zappy5.app/contact
+https://example.com/contact
 צרו קשר עם ניב ברקוביץ מעצב פנים עצמאי בישראל. קבעו פגישת ייעוץ לעיצוב דירות יוקרה מינימליסטי או עיצוב פנים למשרדים מודרניים.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-d42ad501.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-d42ad501.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-d42ad501.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About ניב ברקוביץ
-ניב ברקוביץ is a business in the עיצוב פנים industry.
-
-## Target Audience
-כל סוגי הלקוחות - דירות יוקרה, משרדים, עיצוב מינימליסטי ועוד
-
-## Industry
-עיצוב פנים
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://-d42ad501.zappy5.app/sitemap.xml
-- **Robots.txt**: https://-d42ad501.zappy5.app/robots.txt
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
